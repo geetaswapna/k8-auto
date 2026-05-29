@@ -19,7 +19,7 @@ spec:
     spec:
       containers:
       - name: my-nginx-container
-        image: geetaswapna/my-nginx:v2
+        image: geetaswapna/myapp:v1
 
         ports:
         - containerPort: 80
